@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sajal Biswas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<p>I love programming very much. Every day I code and add new features to my projects. When it comes to programming, I always think about what features can be added to my project and add some features.</p>
+<p>I love programming very much. Every day I code and add new features to my projects. When it comes to programming, I always think about what features can be added to my project and add some features. my goal is senior developer</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalbiswas1&label=Profile%20views&color=0e75b6&style=flat" alt="sajalbiswas1" /> </p>
@@ -47,3 +47,8 @@ Here are some ideas to get you started:
 
 <h1>Which I have worked with :</h1>
 <p>For Font End: HTML, CSS, JavaScript, Talwind, React, Backend with : nodeJs, ExpressJs, MongoDB . I work more : firebase, figma,gitgub,vercel,netlify</p>
+<h1>My Projects</h1>
+- Blog Website all details:
+ live link [https://bloggerex-44566.web.app/](https://bloggerex-44566.web.app/)
+ github Clint Site : [https://github.com/sajalbiswas1/blog-website-clint-a11](https://github.com/sajalbiswas1/blog-website-clint-a11)
+ github Server Site:[https://github.com/sajalbiswas1/blog-website-server-a11](https://github.com/sajalbiswas1/blog-website-server-a11)
