@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋 -->
+![logo](https://github.com/sajalbiswas1/sajalbiswas1/blob/main/assets/Your%20paragraph%20text.png?raw=true)
 
 <!--
 **sajalbiswas1/sajalbiswas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
