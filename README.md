@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 <p>For Font End: HTML, CSS, JavaScript, Talwind, React, Backend with : nodeJs, ExpressJs, MongoDB . I work more : firebase, figma,gitgub,vercel,netlify</p>
 <h1>My Projects</h1>
 - Blog Website all details:
- live link [https://bloggerex-44566.web.app/](https://bloggerex-44566.web.app/)
- github Clint Site : [https://github.com/sajalbiswas1/blog-website-clint-a11](https://github.com/sajalbiswas1/blog-website-clint-a11)
- github Server Site:[https://github.com/sajalbiswas1/blog-website-server-a11](https://github.com/sajalbiswas1/blog-website-server-a11)
+ live link [https://bloggerex-44566.web.app/](https://bloggerex-44566.web.app/) </br>
+ Clint Site : [https://github.com/sajalbiswas1/blog-website-clint-a11](https://github.com/sajalbiswas1/blog-website-clint-a11) </br>
+ Server Site:[https://github.com/sajalbiswas1/blog-website-server-a11](https://github.com/sajalbiswas1/blog-website-server-a11)
