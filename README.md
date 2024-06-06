@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalbiswas1&label=Profile%20views&color=0e75b6&style=flat" alt="sajalbiswas1" /> </p>
 
+<!-- <div>
 - 🌱 I’m currently learning **typescript**
 
 - 👨‍💻 All of my projects are available at [https://sajalbiswas.netlify.app/](https://sajalbiswas.netlify.app/)
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **sajalb1899@gmail.com**
 
 - ⚡ Fun fact **I am funny🥳**
+</div> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
